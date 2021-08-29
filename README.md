@@ -1,2 +1,6 @@
 # Aps.NET-API-Testes
-Testes com api (preciso refazer com .net 3.1)
+
+## Teste da construção de Api 
+
+### Obs:
+- Necessário refazer com .net 3.0
